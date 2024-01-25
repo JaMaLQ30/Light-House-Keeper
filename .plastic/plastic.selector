@@ -1,0 +1,4 @@
+repository "VRJobs@JaMaL_Q@cloud"
+  path "/"
+    br "/main"
+    co "/main"
